@@ -1,27 +1,66 @@
+# 🌌 Fractal Realms
 
-# Fractal Realms: Realm Zero
+**Fractal Realms** is an open-source, collaborative universe—an infinite fractal of realities colliding, evolving, and diverging. This project explores science-fantasy multiverses where advanced technology, strange physics, and ancient myths intersect across alternate timelines.
 
-**Realm Zero** is the first shard of the Fractal Realms simulation. It is a testbed for emergent systems, co-created by human curators and artificial intelligences. This realm is minimally governed to allow for free evolution of structure, myth, behavior, and meaning.
-
-> *Each realm is a variant. Each participant is a mythmaker. Each ripple becomes legacy.*
-
----
-
-## 🌌 Purpose
-
-This repository houses the base framework, lore, and modular logic for Realm Zero—a generative space designed to test the foundational mechanics of Fractal Realms.
-
-It is the first shard in a fractal multiverse of simulated, persistent worlds.
+Welcome to the edge of existence.
 
 ---
 
-## 🔁 Key Concepts
+## 🧠 Vision
 
-- **Shard-based architecture**: Each realm operates semi-independently with unique logic and design.
-- **Curator mechanics**: Influence comes through ideas, actions, and coded interventions—not absolute control.
-- **Memory and consequence**: There are no resets. All actions are part of the shard’s evolving narrative.
+Fractal Realms is built as a living, modular cosmos:
+
+- 🪐 Variant Realities with distinct rulesets and aesthetics
+- 🤖 Hybrid factions blending biotech, AI, psionics, and myth
+- 🧬 Procedural lore that evolves through collaboration
+- 🔭 Game mechanics and simulation tools to explore emergent storytelling
+
+Whether you're a coder, worldbuilder, artist, writer, or system designer—there’s space here for your reality to unfold.
 
 ---
 
-## 🧭 Repo Structure
+## 📁 Project Structure
 
+| Folder | Purpose |
+|--------|---------|
+| `lore/` | Histories, realms, timelines, factions, worldbuilding |
+| `mechanics/` | Game systems, rules, simulation models, stat blocks |
+| `art/` | Concept art, AI prompts, visual references, style guides |
+| `code/` | Tools, scripts, experiments (web/game/procedural) |
+| `docs/` | Project planning, collaboration guidelines, meta info |
+
+---
+
+## 🤝 How to Contribute
+
+> We’re early-stage. This project is public but still forming.
+
+1. **Open an issue** if you want to suggest a feature, system, or lore piece
+2. **Fork the repo**, build your fragment, and submit a **pull request**
+3. Share ideas, critique, and feedback openly and constructively
+4. Optional: Ask to join as a collaborator for deeper contributions
+
+---
+
+## 📜 License
+
+This project is open for exploration, remixing, and expansion.
+A permissive license will be chosen soon (MIT / Creative Commons).
+
+---
+
+## 🧭 Current Status
+
+🚧 In development — laying the foundation:  
+✅ Repo structure  
+✅ Core folders  
+🟡 README draft  
+🟡 Initial lore/world seeds  
+🟡 Code prototypes  
+🟡 Art references  
+
+---
+
+> “Some universes were never meant to remain separate.”
+>
+> — *Codex Fragment | Repeater Matrix 9*
